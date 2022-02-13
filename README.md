@@ -22,15 +22,15 @@ Using these analysis described above, we are able to provide four points based o
 - 1,549 employees are eligible for the mentorship program. For this elegebility, the employee must be a current employee and  that was born in 1965.
 
 
-## Summary
+## Summary!
+
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
  There are at least 72k employees who can retire in the Silver Tsunami. These employees are within 7 title. And the biggest will be the titles "Senior Engineer" and "Senior Staff" title which represent 70% of the employee retirement list, as shown below - 34.4 "Senior Staff" and 35.77 "Senior Engineer".
 
-![retiring_perc](/Resources/retiring_perc.png)
-
+[retiring_perc](https://user-images.githubusercontent.com/95392070/153771380-c7eb0801-f732-489e-88d2-88d7a02d6211.PNG)
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
  Out of the 72,458 employees who are eligible for retirement, only .6% are able to mentor. This will leave a huge gap at the company when the "silver tsunami" hits.
