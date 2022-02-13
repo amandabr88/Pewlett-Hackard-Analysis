@@ -27,19 +27,12 @@ Using these analysis described above, we are able to provide four points based o
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
- - There are at least 72k employees who can retire in the Silver Tsunami. These employees are within 7 title. And the biggest will be the titles "Senior Engineer" and "Senior Staff" title which represent 70% of the employee retirement list, as shown below - 34.4 "Senior Staff" and 35.77 "Senior Engineer".
+ There are at least 72k employees who can retire in the Silver Tsunami. These employees are within 7 title. And the biggest will be the titles "Senior Engineer" and "Senior Staff" title which represent 70% of the employee retirement list, as shown below - 34.4 "Senior Staff" and 35.77 "Senior Engineer".
 
- title	percentage
-Manager	            0.00276022
-Assistant Engineer	1.504319744
-Technique Leader	4.972535814
-Staff	            10.53851887
-Engineer	        12.81432002
-Senior Staff	    34.40061829
-Senior Engineer	    35.76692705
+![retiring_perc](/Resources/retiring_perc.png)
 
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
- - Out of the 72,458 employees who are eligible for retirement, only .6% are able to mentor. This will leave a huge gap at the company when the "silver tsunami" hits.
+ Out of the 72,458 employees who are eligible for retirement, only .6% are able to mentor. This will leave a huge gap at the company when the "silver tsunami" hits.
 
 
